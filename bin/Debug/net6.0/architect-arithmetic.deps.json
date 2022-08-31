@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "architect-arithmetic/1.0.0": {
+        "runtime": {
+          "architect-arithmetic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "architect-arithmetic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

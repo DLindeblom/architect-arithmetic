@@ -1,0 +1,15 @@
+/home/dan/C#/architect-arithmetic/bin/Debug/net6.0/architect-arithmetic
+/home/dan/C#/architect-arithmetic/bin/Debug/net6.0/architect-arithmetic.deps.json
+/home/dan/C#/architect-arithmetic/bin/Debug/net6.0/architect-arithmetic.runtimeconfig.json
+/home/dan/C#/architect-arithmetic/bin/Debug/net6.0/architect-arithmetic.dll
+/home/dan/C#/architect-arithmetic/bin/Debug/net6.0/architect-arithmetic.pdb
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.csproj.AssemblyReference.cache
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.AssemblyInfoInputs.cache
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.AssemblyInfo.cs
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.csproj.CoreCompileInputs.cache
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.dll
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/refint/architect-arithmetic.dll
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.pdb
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/architect-arithmetic.genruntimeconfig.cache
+/home/dan/C#/architect-arithmetic/obj/Debug/net6.0/ref/architect-arithmetic.dll
